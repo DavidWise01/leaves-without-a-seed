@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-LEAVES_WITHOUT_A_SEED",
+  "name": "LEAVES WITHOUT A SEED · LWS",
+  "universe": "GLŌSSA",
+  "moniker": "⟦LEAVES WITHOUT A SEED · LWS:leaves-without-a-seed:1e5f70⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "1e5f700b0973806ba482cbb70b080f0f0a93ce0c34a920fedca88e7324fdbaaf",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
