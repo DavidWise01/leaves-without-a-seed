@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 50
+slug  : leaves-without-a-seed
+seal  : 1e5f700b0973806ba482cbb70b080f0f0a93ce0c34a920fedca88e7324fdbaaf
+prev  : b6c52a0f088f50eed8d12cd1650d0107d121fb09c62ed5bf228f847a540f60b3
+link  : 52624e7b47062dceea65011a152c5911d51b9ed434f7b6a894056cd74d58dd2f
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
